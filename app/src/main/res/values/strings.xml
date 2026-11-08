@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CityTour</string>
+
+    <!-- Encabezado -->
+    <string name="brand_name">CITYTOUR</string>
+    <string name="screen_title">Descubre la historia</string>
+    <string name="screen_subtitle">Explora lugares extraordinarios y conoce su pasado.</string>
+
+    <!-- Galeria -->
+    <string name="gallery_title">GALERIA DEL MONUMENTO</string>
+    <string name="monument_image_description">Fotografia del monumento historico</string>
+    <string name="gallery_counter_initial">Imagen 1 de 3</string>
+    <string name="button_previous">Anterior</string>
+    <string name="button_next">Siguiente</string>
+
+    <!-- Informacion del monumento -->
+    <string name="monument_name">Arco de la Calzada</string>
+    <string name="monument_location">Leon, Guanajuato, Mexico</string>
+    <string name="monument_description">Conoce la historia de uno de los monumentos mas representativos de la ciudad. Este emblematico arco forma parte de la identidad y el patrimonio cultural de Leon.</string>
+
+    <!-- Reproductor de audio -->
+    <string name="audio_section">EXPERIENCIA DE AUDIO</string>
+    <string name="audio_title">Narracion historica</string>
+    <string name="audio_stopped">Audio detenido</string>
+    <string name="audio_time_default">00:00 / 00:00</string>
+    <string name="button_play">Reproducir</string>
+    <string name="button_pause">Pausar</string>
+    <string name="button_stop">Detener</string>
+    <string name="citytour">CITYTOUR</string>
+
+    <!-- Descripciones de la galeria -->
+    <string name="gallery_caption_front">Vista frontal del Arco de la Calzada</string>
+    <string name="gallery_caption_lateral">Perspectiva lateral del monumento</string>
+    <string name="gallery_caption_detail">Detalles de la arquitectura</string>
+    <string name="gallery_counter">Imagen %1$d de %2$d</string>
+    <string name="gallery_image_content_description">Fotografia del monumento: %1$s</string>
+
+    <string name="audio_ready">Audio listo para reproducirse</string>
+    <string name="audio_playing">Reproduciendo narracion...</string>
+    <string name="audio_paused">Audio en pausa</string>
+
+    <string name="audio_completed">Narracion finalizada</string>
+    <string name="audio_load_error">No se pudo cargar el audio</string>
+    <string name="audio_resume">Reanudar</string>
+    <string name="audio_time_format">%1$s / %2$s</string>
+
+    <string name="audio_volume_label">Volumen de narracion</string>
+    <string name="audio_volume_description">Ajustar volumen de reproduccion</string>
+    <string name="no_fue_posible_cargar_el_archivo_de_audio">No fue posible cargar el archivo de audio</string>
+
+    <!-- Creditos multimedia -->
+    <string name="credits_title">Creditos multimedia</string>
+
+    <string name="credits_photos">Fotografias de ProtoplasmaKid / Wikimedia Commons / CC BY-SA 4.0.\n\nVista frontal:\nhttps://commons.wikimedia.org/wiki/File:Arco_de_la_Calzada,_Le%C3%B3n,_Guanajuato_-_3.jpg\n\nVista lateral:\nhttps://commons.wikimedia.org/wiki/File:Arco_de_la_Calzada,_Le%C3%B3n,_Guanajuato_-_5.jpg\n\nDetalle arquitectonico:\nhttps://commons.wikimedia.org/wiki/File:Arco_de_la_Calzada,_Le%C3%B3n,_Guanajuato_-_1.jpg\n\nLas fotografias fueron convertidas a formato WebP para optimizar su almacenamiento, conservando su contenido visual.\n\nLicencia: https://creativecommons.org/licenses/by-sa/4.0/\n\nExperiencia de audio: Elaboración Propia.</string>
+
+
+</resources>
